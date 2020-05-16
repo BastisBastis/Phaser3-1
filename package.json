@@ -11,9 +11,8 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ourcade/phaser3-parcel-template.git"
+		"url": "https://github.com/BastisBastis/Phaser3-1.git"
 	},
-	"homepage": "https://github.com/ourcade/phaser3-parcel-template",
 	"devDependencies": {
 		"eslint": "^6.8.0",
 		"minimist": ">=1.2.2",
